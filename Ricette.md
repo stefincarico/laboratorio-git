@@ -2,3 +2,4 @@
 ## Elenco delle ricette
 
 * Spaghetti Aglio e olio
+* Risotto ai funghi

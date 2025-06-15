@@ -6,3 +6,4 @@ cuoci la pasta e aggiungi gli ingredienti
 * olio
 * peperoncino
 
+* prezzemolo

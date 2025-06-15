@@ -6,5 +6,5 @@ Ingredienti
 * parmigiano
 * penne
 * olio
-* pancetta
+* guanciale
 * pepe nero

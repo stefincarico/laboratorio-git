@@ -1,0 +1,15 @@
+* 474ced5 Aggiorna indice con ricetta risotto
+* 8549baf Aggiunge rietta risotto funghi
+| * 81029df Aggiorna indice con penne alla carbonara
+| * 3955df8 Aggiunta ricetta penne alla carbonara
+|/  
+* edfa550 Update autore.txt
+* 34929b5 Update Spaghetti-aglio-olio-peperoncino.md
+* a662320 Aggiorna la ricetta spaghetti
+* af70ff4 aggiunge ricetta spaghetto aglio olio peperoncino
+* e7e9fa7 Aggiunge indice delle ricette
+* 2df120a Aggiunge licenza
+* 1a975b3 Aggiunta la licenza
+* b254c96 Initial Commit
+* 5b12e8a aggiunti tutti i file
+* 351dd13 Il mio primo commit con main e autore

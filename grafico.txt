@@ -1,3 +1,4 @@
+* f4d7dd0 Aggiunge grafico della situazione
 * 474ced5 Aggiorna indice con ricetta risotto
 * 8549baf Aggiunge rietta risotto funghi
 | * 81029df Aggiorna indice con penne alla carbonara

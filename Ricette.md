@@ -4,3 +4,5 @@
 * Spaghetti Aglio e olio
 * Risotto ai funghi
 * Penne alla carbonara
+* Minestrone di Verdure
+
